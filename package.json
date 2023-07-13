@@ -1,0 +1,23 @@
+{
+  "name": "hello-npm-vinnu",
+  "version": "1.0.0",
+  "description": "Making this package to learn how to create and use npm packages.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Vinnu1/hello-npm-vinnu.git"
+  },
+  "keywords": [
+    "test",
+    "npm"
+  ],
+  "author": "Vinayak Sinha",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Vinnu1/hello-npm-vinnu/issues"
+  },
+  "homepage": "https://github.com/Vinnu1/hello-npm-vinnu#readme"
+}
